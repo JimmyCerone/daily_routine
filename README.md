@@ -1,5 +1,5 @@
-# IBM Personality
+# Daily Routine
 
-#### A feeder for IBM's Watson Big 5 personality evaluator. Put in text, get out personality info. 
-
-The first integration will be with a simple Twitter API that will pull down tweets to get personality info. I might also just use my LinkedIn profile posts and compare them with my journals / cover letters. 
+#### A daily check in delivered via email, with all the events in your calendar and the link to a google form to reflect.
+ 
+Still a bit buggy because of time zone issues and the fact I am not writing to sheets which then imports to forms. I could also just reply to the email, parse that, then send it to a google form...
